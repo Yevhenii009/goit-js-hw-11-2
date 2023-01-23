@@ -111,4 +111,5 @@ function scroll() {
     top: cardHeight * 2,
     behavior: 'smooth',
   });
+  
 };
