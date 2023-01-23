@@ -86,7 +86,6 @@ refs.gallery.insertAdjacentHTML('beforeend', markup);
 
 simpleLightbox();
 scroll();
-  
 };
 
 function clearList() {
@@ -112,4 +111,4 @@ function scroll() {
     top: cardHeight * 2,
     behavior: 'smooth',
   });
-}
+};
